@@ -1,8 +1,8 @@
 {
   "pages": [
     
-    "pages/discover/index/index",
     "pages/index/index",
+    "pages/discover/index/index",
     "pages/custom/index",
     "pages/creditshop/detail/index",
     "pages/creditshop/comment/index",
