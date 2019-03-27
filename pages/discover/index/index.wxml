@@ -1,0 +1,19 @@
+<i-tabs current="{{ current }}" bindchange="handleChange">
+  <i-tab key="{{item.key}}" title="{{item.title}}" wx:key="{{item.key}}" wx:for="{{tabs}}"></i-tab>
+</i-tabs>
+
+
+<cmp_recommend wx:if="{{current == 'tab1'}}"></cmp_recommend>
+<cmp_follow wx:if="{{current == 'tab2'}}"></cmp_follow>
+<view wx:if="{{current == 'tab3'}}">
+  tab3
+</view>
+<view wx:if="{{current == 'tab4'}}">
+  tab4
+</view>
+<view wx:if="{{current == 'tab5'}}">
+  tab5
+</view>
+<view wx:if="{{current == 'tab6'}}">
+  tab6
+</view>

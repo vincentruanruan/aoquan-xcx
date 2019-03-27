@@ -1,0 +1,52 @@
+/* pages/discover/index/cmp_recommend.wxss */
+
+.row {
+  padding: 15rpx;
+}
+
+.col {
+  padding: 15rpx;
+}
+
+.item {
+  background: #fff;
+  font-size: 23rpx;
+}
+
+.item .img {
+  width: 100%;
+  height: 350rpx;
+}
+
+.item .desc {
+  padding: 10rpx;
+}
+
+.item .desc p {
+  text-overflow: -o-ellipsis-lastline;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.item .bottom {
+  padding: 10rpx;
+  color: #999;
+}
+
+.item .bottom .user{
+  padding-left: 15rpx;
+}
+
+.item .icon {
+  height: 50rpx;
+  width: 50rpx;
+  border-radius: 50%;
+}
+
+.item .loc {
+  float: right;
+  line-height: 50rpx;
+}

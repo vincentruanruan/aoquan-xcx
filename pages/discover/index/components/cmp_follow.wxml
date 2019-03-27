@@ -1,0 +1,38 @@
+<view class="list">
+
+  <view class="item">
+    <i-row>
+      <i-col span="4" i-class="col">
+        <view class="icon">
+          <image mode="aspectFill" src="http://aoquan.maimaitoo.com/imgs/video-a.jpg"></image>
+        </view>
+      </i-col>
+      <i-col span="20" i-class="col">
+        <view class="right">
+          <view class="title">sdasdasdsadas</view>
+          <view class="desc">改水电费所发生的撒旦撒大所改水电费所发生的撒旦撒大所</view>
+          <view class="imgs">
+            <image mode="aspectFill" src="http://aoquan.maimaitoo.com/imgs/video-a.jpg"></image>
+            <image mode="aspectFill" src="http://aoquan.maimaitoo.com/imgs/video-a.jpg"></image>
+            <image mode="aspectFill" src="http://aoquan.maimaitoo.com/imgs/video-a.jpg"></image>
+            <image mode="aspectFill" src="http://aoquan.maimaitoo.com/imgs/video-a.jpg"></image>
+          </view>
+
+          <view class="video">
+            <view class="bg">
+              <i-icon type="playon_fill" size="60"/>
+              <image mode="aspectFill" src="http://aoquan.maimaitoo.com/imgs/video-a.jpg"></image>
+            </view>
+          </view>
+
+          <view class="bottom">
+            <text>2019-08-08</text>
+            <view class="eye">
+              <i-icon type="browse" size="20" />200</view>
+          </view>
+        </view>
+      </i-col>
+    </i-row>
+  </view>
+
+</view>

@@ -1,0 +1,17 @@
+<i-row i-class="row">
+  <i-col span="12" i-class="col" wx:for="{{list}}">
+    <view class="item">
+      <image class="img" mode="aspectFill" src="http://aoquan.maimaitoo.com/imgs/video-a.jpg"></image>
+      <view class="desc">
+        <view class="p">
+          改善很多牙齿问题全靠改善很多牙齿问题全靠改善很多牙齿问题全靠</view>
+      </view>
+      <view class="bottom">
+        <image class="icon" mode="aspectFill" src="http://aoquan.maimaitoo.com/imgs/video-a.jpg"></image>
+        <text class="user">1231</text>
+        <view class="loc">
+          <i-icon type="coordinates" size="13" color="#80848f" />2.2km</view>
+      </view>
+    </view>
+  </i-col>
+</i-row>

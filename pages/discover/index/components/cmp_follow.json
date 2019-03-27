@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "i-row": "../../../../plugin/iview/row/index",
+    "i-col": "../../../../plugin/iview/col/index",
+    "i-icon": "../../../../plugin/iview/icon/index"
+  }
+}

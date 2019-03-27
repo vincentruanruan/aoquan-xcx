@@ -1,0 +1,82 @@
+/* pages/discover/index/components/cmp_follow.wxss */
+
+.list {
+  padding: 15rpx;
+}
+
+.item {
+  background: #fff;
+  margin: 15rpx 0;
+  padding: 15rpx;
+}
+
+.icon {
+  /* text-align: center; */
+  padding: 15rpx;
+}
+
+.icon image {
+  width: 80rpx;
+  height: 80rpx;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0 auto;
+}
+
+.col .right {
+  padding: 15rpx;
+  padding-bottom: 0;
+}
+
+.right .title {
+  letter-spacing: 2rpx;
+  color: #333;
+}
+
+.right .desc {
+  font-size: 26rpx;
+  margin-top: 20rpx;
+  letter-spacing: 2rpx;
+  color: #666;
+}
+
+.right .imgs {
+  margin-top: 20rpx;
+}
+
+.right .imgs image {
+  width: 180rpx;
+  height: 180rpx;
+  margin-right: 15rpx;
+  margin-bottom: 15rpx;
+  border-radius: 7rpx;
+}
+
+.right .video .bg {
+  position: relative;
+  display: inline-block;
+}
+.right .video .bg i-icon{
+  position: absolute;
+  display: inline-block;
+  width: 370rpx;
+  line-height: 370rpx;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.right .video .bg image {
+  height: 370rpx;
+  width: 370rpx;
+  border-radius: 7rpx;
+}
+
+.bottom {
+  font-size: 26rpx;
+  margin-top: 20rpx;
+  color: #999;
+}
+
+.bottom .eye {
+  float: right;
+}

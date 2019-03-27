@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "i-button": "../../../plugin/iview/button/index",
+    "i-tabs": "../../../plugin/iview/tabs/index",
+    "i-tab": "../../../plugin/iview/tab/index",
+    "cmp_recommend": "components/cmp_recommend",
+    "cmp_follow": "components/cmp_follow"
+  }
+}
